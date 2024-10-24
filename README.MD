@@ -2,11 +2,9 @@
 
 Whisper fund is a semaphore based project, where user can anonymously chat, post and pay in telegram group.
 
----
 
 ## How to Use the Bot
 
----
 
 1. **Start the Bot:**  
    Click on this link to start the bot: [https://t.me/mysema_bot](https://t.me/mysema_bot). This is essential because the bot will send you private messages, allowing you to manage your anonymous identity and transactions effectively.
@@ -14,11 +12,10 @@ Whisper fund is a semaphore based project, where user can anonymously chat, post
 2. **Join the Group:**  
    After starting the bot, join the Telegram group for crowdfunding: [https://t.me/+lO8eQNkePo4wNTll](https://t.me/+lO8eQNkePo4wNTll). Here, you can enjoy anonymous funding and post your crowdfunding ideas, engaging with a community of supporters.
 
----
 
 ## What it does
 
----
+
 
 1. **Post Crowdfunding Ideas:** Users can post detailed messages in a Telegram group about their crowdfunding ideas, outlining all relevant information directly within the platform.
 
@@ -43,4 +40,3 @@ Here’s the updated version of the two points, including the privacy aspect:
 9. **Access Wallet Information:**  
    Users can use the **/wallet** command to privately receive their wallet's **private key**, **address**, and **public key**. This ensures that sensitive information is securely transmitted directly to the user's private messages, maintaining their privacy and security
 
----
