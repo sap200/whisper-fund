@@ -29,8 +29,6 @@ Whisper fund is a semaphore based project, where user can anonymously chat, post
 
 6. **Inbuilt Crypto Wallet:** Each user is equipped with an **Ethereum wallet**, enabling them to top up funds and send **anonymous donations** using simple Telegram commands like `/send`.
 
-Here’s the updated version of the two points, including the privacy aspect:
-
 7. **Check Semaphore Identity:**  
    Users can check their **Semaphore identity** by using the **/id** command, allowing them to verify their anonymity in the group. The result is sent directly to the user's private messages, ensuring confidentiality and not exposing it in the group.
 
